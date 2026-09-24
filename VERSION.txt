@@ -1,0 +1,5 @@
+PAISAVAPAS.com
+Version: Manager Immediate Access
+Manager registration requires NO Admin approval.
+Manager accounts are active immediately after registration and can open the Manager Dashboard and User Approval queue.
+Employee reimbursement claims that remain PENDING are routed to their assigned manager for approval.
